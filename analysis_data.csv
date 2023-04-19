@@ -1,0 +1,142 @@
+safe,attendance,bullying,GQ_20P,NTA,school_name,admissionsmethod_prog1,Borough,othersports,attendance_level,dance_offered,Manhattan,Bronx,Queens,Brooklyn,Staten
+0.94,0.91,0.27,4,Mott Haven-Port Morris,Academy of Applied Mathematics and Technology,Open,BRONX,"Basketball, Soccer, Softball, Volleyball",medium,0,0,1,0,0,0
+0.94,0.93,0.22,3.7,Fort Greene,Academy of Arts and Letters,Screened,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.82,0.94,0.33,6.9,Hunts Point,Accion Academy,Open,BRONX,NA,medium,0,0,1,0,0,0
+0.9,0.97,0.2,0.9,Auburndale,Adrien Block (I.S. 25),Open,QUEENS,"Baseball, Basketball, Cheerleading, Running Club",high,0,0,0,1,0,0
+0.84,0.89,0.4,1.2,Midwood,Andries Hudde,Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.87,0.91,0.29,2.4,Eastchester-Edenwald-Baychester,Baychester Middle School,Open,BRONX,"Basketball, Cheerleading, Cross Country, Dance, Fitness Club, Flag Football, Running Club, Soccer, Track and Field",medium,1,0,1,0,0,0
+0.87,0.94,0.26,6.9,Hunts Point,Bronx Academy for Multi-Media,Open,BRONX,NA,medium,0,0,1,0,0,0
+0.78,0.9,0.33,2.4,Eastchester-Edenwald-Baychester,Bronx Alliance Middle School,Open,BRONX,"Basketball, Cheerleading, Martial Arts, Running Club",medium,0,0,1,0,0,0
+0.89,0.89,0.18,1.7,Norwood,Bronx Dance Academy School,Screened,BRONX,Dance,medium,1,0,1,0,0,0
+0.92,0.92,0.23,3.6,Ocean Hill,Brooklyn Environmental Exploration School (BEES),Open,BROOKLYN,"Baseball, Basketball, Dance, Double Dutch, Flag Football, Kickball, Softball, Volleyball, Wrestling",medium,1,0,0,0,1,0
+0.87,0.92,0.35,4.9,Brownsville,Brownsville Collaborative Middle School,Open,BROOKLYN,"Baseball, Basketball, Bowling, Boxing, Cheerleading, Cross Country, Dance, Double Dutch, Fitness Club, Golf, Martial Arts, Rugby, Running Club, Soccer, Softball, Step, Swimming, Table Tennis, Tennis, Track and Field, Volleyball, Wrestling, Yoga",medium,1,0,0,0,1,0
+0.95,0.98,0.22,5.7,East Harlem South,Central Park East II,Open,MANHATTAN,"Basketball, Dance, Flag Football, Running Club, Soccer, Step, Yoga",high,1,1,0,0,0,0
+0.93,0.83,0.26,5.6,Springfield Gardens South-Brookville,Collaborative Arts Middle School,Open,QUEENS,"Basketball, Cheerleading, Dance, Fitness Club",low,1,0,0,1,0,0
+0.9,0.94,0.27,2,College Point,College Point Collaborative,Open,QUEENS,"Basketball, Cheerleading",medium,0,0,0,1,0,0
+0.94,0.84,0.32,5.6,Springfield Gardens South-Brookville,Community Voices Middle School,Open,QUEENS,"Basketball, Fitness Club",low,0,0,0,1,0,0
+0.84,0.94,0.35,2.2,Co-op City,Cornerstone Academy for Social Action Middle School (CASA),Open,BRONX,NA,medium,0,0,1,0,0,0
+0.92,0.89,0.28,1.6,Crown Heights South,Ebbets Field Middle School,Open,BROOKLYN,"Basketball, Running Club, Soccer",medium,0,0,0,0,1,0
+0.89,0.88,0.31,0.3,Prospect Heights,Elijah Stroud Middle School,Open,BROOKLYN,"Basketball, Cheerleading, Dance, Fitness Club, Track and Field, Yoga",medium,1,0,0,0,1,0
+0.88,0.96,0.36,3.1,Crotona Park East,Emolior Academy,Open,BRONX,"Basketball, Cheerleading, Dance, Fitness Club, Kickball, Martial Arts, Soccer, Track and Field, Volleyball, Yoga",high,1,0,1,0,0,0
+0.9,0.92,0.4,3.1,Crotona Park East,E.S.M.T - I.S.190,Open,BRONX,"Basketball, Cheerleading, Dance, Fitness Club",medium,1,0,1,0,0,0
+0.92,0.92,0.28,3.1,Crotona Park East,Fannie Lou Hamer Middle School,Open,BRONX,Running Club,medium,0,0,1,0,0,0
+0.97,0.97,0.13,1.1,South Ozone Park,Hawtree Creek Middle School,Open,QUEENS,"Dance, Step, Track and Field",high,1,0,0,1,0,0
+0.87,0.94,0.33,2.9,Glen Oaks-Floral Park-New Hyde Park,Irwin Altman Middle School 172,Composite Score,QUEENS,"Baseball, Basketball, Fitness Club, Flag Football, Handball, Soccer, Volleyball",medium,0,0,0,1,0,0
+1,0.83,0.43,1,St. Albans,I.S. 059 Springfield Gardens,Open,QUEENS,"Basketball, Dance, Double Dutch, Handball, Table Tennis",low,1,0,0,1,0,0
+0.84,0.85,0.41,1.3,Canarsie,I.S. 068 Isaac Bildersee,Composite Score,BROOKLYN,"Basketball, Dance, Football, Soccer, Track and Field",medium,1,0,0,0,1,0
+0.91,0.92,0.22,0.1,Ridgewood,I.S. 093 Ridgewood,Screened: Language,QUEENS,"Basketball, Cheerleading, Dance, Handball, Soccer, Volleyball",medium,1,0,0,1,0,0
+0.91,0.94,0.26,2.2,Co-op City,I.S. 181 Pablo Casals,Open,BRONX,"Tennis, Track and Field, Wrestling",medium,0,0,1,0,0,0
+0.88,0.85,0.42,3.6,Hollis,I.S. 192 The Linden,Open,QUEENS,"Baseball, Basketball, Dance, Fitness Club, Running Club, Soccer",medium,1,0,0,1,0,0
+0.86,0.98,0.45,1.3,Canarsie,I.S. 211 John Wilson,Composite Score,BROOKLYN,NA,high,0,0,0,0,1,0
+0.92,0.92,0.21,0.5,Jackson Heights,I.S. 230,Zoned,QUEENS,"Basketball, Cheerleading, Fitness Club, Martial Arts, Soccer, Volleyball",medium,0,0,0,1,0,0
+0.83,0.79,0.48,3.3,Jamaica,I.S. 238-Susan B. Anthony Academy,Open,QUEENS,NA,low,0,0,0,1,0,0
+0.85,0.9,0.35,2.7,Kew Gardens Hills,I.S. 250 The Robert F. Kennedy Community Middle School,Open,QUEENS,NA,medium,0,0,0,1,0,0
+0.87,0.9,0.29,1.2,Midwood,I. S. 381,Composite Score,BROOKLYN,"Basketball, Dance, Fitness Club, Flag Football, Soccer, Track and Field, Volleyball",medium,1,0,0,0,1,0
+0.83,0.93,0.22,4.9,Brownsville,I.S. 392,Screened,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.88,0.96,0.21,3.6,East Harlem North,Isaac Newton Middle School for Math & Science,Screened,MANHATTAN,"Basketball, Soccer",high,0,1,0,0,0,0
+0.86,0.92,0.3,0.8,New Dorp-Midland Beach,I.S. R002 George L. Egbert,Composite Score,STATEN IS,Basketball,medium,0,0,0,0,0,0
+0.81,0.94,0.34,0.5,Queens Village,Jean Nuzzi Intermediate School 109,Composite Score,QUEENS,"Basketball, Cross Country, Dance, Track and Field",medium,1,0,0,1,0,0
+0.95,0.93,0.16,8.6,Morningside Heights,J.H.S. 054 Booker T. Washington,Screened,MANHATTAN,"Basketball, Cross Country, Flag Football",medium,0,1,0,0,0,0
+0.92,0.96,0.23,8.6,Gramercy,J.H.S. 104 Simon Baruch,Screened,MANHATTAN,"Baseball, Basketball, Cheerleading, Cross Country, Dance, Fencing, Flag Football, Lacrosse, Running Club, Soccer, Softball, Table Tennis, Tennis, Track and Field, Ultimate Frisbee, Volleyball",high,1,1,0,0,0,0
+0.86,0.88,0.37,0.8,Forest Hills,J.H.S. 190 Russell Sage,Open,QUEENS,"Baseball, Basketball, Volleyball",medium,0,0,0,1,0,0
+0.87,0.88,0.25,0.9,Ozone Park,J.H.S. 202 Robert H. Goddard,Zoned,QUEENS,"Basketball, Fitness Club, Flag Football, Running Club, Soccer, Softball, Volleyball",medium,0,0,0,1,0,0
+0.86,0.93,0.21,0.8,Borough Park,J.H.S. 223 The Montauk,Composite Score,BROOKLYN,"Fitness Club, Flag Football, Rugby, Running Club",medium,0,0,0,0,1,0
+0.8,0.87,0.43,1.1,South Ozone Park,J.H.S. 226 Virgil I. Grissom,Open,QUEENS,NA,medium,0,0,0,1,0,0
+0.87,0.91,0.3,0.6,Madison,J.H.S. 234 Arthur W. Cunningham,Composite Score,BROOKLYN,"Cheerleading, Cross Country, Dance, Track and Field, Volleyball, MOUSE Squad, Math and ELA enrichment",medium,1,0,0,0,1,0
+0.91,0.98,0.22,0.7,Dyker Heights,J.H.S. 259 William Mckinley,Composite Score,BROOKLYN,"Baseball, Basketball, Cheerleading, Dance, Fitness Club, Flag Football, Running Club, Soccer, Softball, Volleyball, Yoga, Cheer and Pep Squad",high,1,0,0,0,1,0
+0.89,0.92,0.41,4.9,Brownsville,Kappa V (Knowledge and Power Preparatory Academy),Screened,BROOKLYN,"Archery, Basketball, Cheerleading, Dance, Fitness Club, Flag Football, Handball, Lacrosse, Soccer, Step, Track and Field, Yoga",medium,1,0,0,0,1,0
+0.93,0.97,0.15,4.2,Far Rockaway-Bayswater,Knowledge and Power Preparatory Academy VI,Screened,QUEENS,"Basketball, Soccer, Track and Field",high,0,0,0,1,0,0
+0.84,0.88,0.34,1.7,Williamsbridge-Olinville,Leaders of Tomorrow,Open,BRONX,"Basketball, Cheerleading, Running Club, Soccer, Step, Track and Field",medium,0,0,1,0,0,0
+0.94,0.94,0.2,3.4,East Elmhurst,Louis Armstrong Middle School (I.S. 227),Open,QUEENS,"Basketball, Fitness Club, Martial Arts, Ultimate Frisbee, Volleyball",medium,0,0,0,1,0,0
+0.9,0.91,0.24,4.9,Brownsville,Mott Hall Bridges Academy,Open,BROOKLYN,"Basketball, Cross Country, Dance, Double Dutch, Flag Football, Football, Running Club, Softball, Step, Table Tennis, Track and Field",medium,1,0,0,0,1,0
+0.93,0.93,0.24,8.6,Morningside Heights,Mott Hall II,Screened,MANHATTAN,"Baseball, Basketball, Flag Football, Running Club, Soccer, Volleyball, Yoga",medium,0,1,0,0,0,0
+0.92,0.95,0.25,3.6,Ocean Hill,Mott Hall IV,Screened,BROOKLYN,NA,high,0,0,0,0,1,0
+0.86,0.83,0.29,4.2,Far Rockaway-Bayswater,M.S. 053 Brian Piccolo,Open,QUEENS,NA,low,0,0,0,1,0,0
+0.82,0.88,0.33,4,Prospect Lefferts Gardens-Wingate,M.S. 061 Dr. Gladstone H. Atwell,Composite Score,BROOKLYN,"Baseball, Basketball, Cheerleading, Dance, Double Dutch, Fitness Club, Football, Running Club, Soccer, Softball, Step, Tennis, Ultimate Frisbee, Volleyball",medium,1,0,0,0,1,0
+0.89,0.92,0.25,2.2,Co-op City,M.S. 180 Dr. Daniel Hale Williams,Screened,BRONX,"Basketball, Flag Football, Soccer",medium,0,0,1,0,0,0
+0.87,0.96,0.25,0.2,Fresh Meadows-Utopia,M.S. 216 George J. Ryan,Composite Score,QUEENS,"Basketball, Cheerleading, Dance, Fitness Club, Flag Football, Handball, Running Club, Soccer",high,1,0,0,1,0,0
+0.96,0.96,0.16,5.7,East Harlem South,M.S. 224 Manhattan East School for Arts & Academics,Screened,MANHATTAN,"Basketball, Dance, Flag Football, Soccer",high,1,1,0,0,0,0
+0.98,0.98,0.08,8.6,Gramercy,M.S. 255 Salk School of Science,Screened,MANHATTAN,"Baseball, Basketball, Cross Country, Fencing, Flag Football, Running Club, Soccer, Softball, Tennis, Track and Field, Volleyball, Yoga",high,0,1,0,0,0,0
+0.88,0.92,0.22,2.8,West Village,M.S. 297 / 75 Morton,Screened,MANHATTAN,"Baseball, Basketball, Cheerleading, Cross Country, Flag Football, Lacrosse, Soccer, Table Tennis, Track and Field, Volleyball",medium,0,1,0,0,0,0
+0.86,0.97,0.27,4.2,Longwood,M.S. 302 Luisa Dessus Cruz,Zoned,BRONX,NA,high,0,0,1,0,0,0
+0.9,0.91,0.36,0.3,Prospect Heights,M.S. 340 North Star Academy,Composite Score,BROOKLYN,"Basketball, Flag Football, Track and Field",medium,0,0,0,0,1,0
+0.9,0.87,0.12,3.3,Jamaica,M.S. 358,Open,QUEENS,NA,medium,0,0,0,1,0,0
+0.98,0.96,0.04,6.3,Sunset Park West,MS 936 Arts Off 3rd,Open,BROOKLYN,NA,high,0,0,0,0,1,0
+0.86,0.95,0.41,4,Prospect Lefferts Gardens-Wingate,New Heights Middle School,Open,BROOKLYN,"Basketball, Dance, Martial Arts, Running Club, Track and Field, Judo",high,1,0,0,0,1,0
+0.94,0.92,0.07,6.3,Sunset Park West,New Voices School of Academic & Creative Arts,Open,BROOKLYN,none,medium,0,0,0,0,1,0
+0.79,0.85,0.46,1.7,Williamsbridge-Olinville,North Bronx School of Empowerment,Open,BRONX,"Basketball, Cross Country, Flag Football, Soccer, Step",medium,0,0,1,0,0,0
+0.89,0.91,0.24,2.4,Eastchester-Edenwald-Baychester,One World Middle School at Edenwald,Open,BRONX,Basketball,medium,0,0,1,0,0,0
+0.84,0.84,0.42,4,Prospect Lefferts Gardens-Wingate,Parkside Preparatory Academy,Composite Score,BROOKLYN,"Baseball, Basketball, Cheerleading, Dance, Flag Football, Soccer, Volleyball",low,1,0,0,0,1,0
+0.87,0.9,0.44,1.7,Norwood,"Police Officer George J. Werdann, III (P.S./M.S. 20)",Open,BRONX,"Baseball, Basketball, Soccer, Volleyball",medium,0,0,1,0,0,0
+0.95,0.95,0.31,1.6,Middle Village,P.S. 049 Dorothy Bonawit Kole,Zoned,QUEENS,"Baseball, Basketball, Running Club, Soccer",high,0,0,0,1,0,0
+0.86,0.91,0.47,0.7,Pelham Bay-Country Club-City Island,P.S. 071 Rose E. Scala,Open,BRONX,"Cheerleading, Dance, Wrestling",medium,1,0,1,0,0,0
+0.97,0.94,0.24,0.8,Borough Park,P.S. 121 Nelson A. Rockefeller,Open,BROOKLYN,Field Day,medium,0,0,0,0,1,0
+0.85,0.95,0.39,1.1,South Ozone Park,P.S. 124 Osmond A Church,Zoned,QUEENS,NA,high,0,0,0,1,0,0
+0.87,0.97,0.36,1.6,Middle Village,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",Zoned,QUEENS,Basketball,high,0,0,0,1,0,0
+0.91,0.84,0.4,2.1,Crown Heights North,P.S. 138 Brooklyn,Open,BROOKLYN,NA,low,0,0,0,0,1,0
+0.98,0.79,0.31,4.1,Lower East Side,P.S. 140 Nathan Straus,Screened,MANHATTAN,Sports are only by champs,low,0,1,0,0,0,0
+0.94,0.92,0.18,0.7,Bath Beach,P.S. 163 Bath Beach,Zoned,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.9,0.94,0.4,2.7,Kew Gardens Hills,P.S. 164 Queens Valley,Open,QUEENS,NA,medium,0,0,0,1,0,0
+0.92,0.94,0.12,5.7,East Harlem South,P.S. 171 Patrick Henry,Screened,MANHATTAN,"Basketball, Fitness Club, Kickball, Soccer, Volleyball, Yoga",medium,0,1,0,0,0,0
+0.89,0.94,0.36,0.7,Pelham Bay-Country Club-City Island,P.S. 175 City Island,Open,BRONX,NA,medium,0,0,1,0,0,0
+0.89,0.86,0.48,3.6,Ocean Hill,P.S. 178 Saint Clair Mckelway,Open,BROOKLYN,Soccer,medium,0,0,0,0,1,0
+0.8,0.86,0.44,0.5,East Flatbush-Farragut,P.S. 181 Brooklyn,Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.88,0.86,0.41,4.9,Brownsville,P.S. 184 Newport,Open,BROOKLYN,"Dance, Martial Arts",medium,1,0,0,0,1,0
+0.9,0.92,0.3,0.8,Borough Park,P.S. 192 The Magnet School for Math and Science Inquiry,Open,BROOKLYN,NIA afterschool program offers different sports,medium,0,0,0,0,1,0
+0.89,0.96,0.24,1.2,Brighton Beach,P.S. 209 Margaret Mead,Zoned,BROOKLYN,NA,high,0,0,0,0,1,0
+0.8,0.96,0.29,0.5,East Flatbush-Farragut,P.S. 235 Janice Marie Knight School,Screened,BROOKLYN,"Basketball, Soccer, Volleyball",high,0,0,0,0,1,0
+0.9,0.89,0.53,4.1,Lower East Side,P.S. 34 Franklin D. Roosevelt,Open,MANHATTAN,"Basketball, Fitness Club, Flag Football",medium,0,1,0,0,0,0
+0.97,0.93,0.17,4,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,P.S. 47 Chris Galas,Zoned,QUEENS,"Baseball, Basketball, Fitness Club, Football, Kickball, Running Club, Soccer, Softball, Tennis, Track and Field, Volleyball",medium,0,0,0,1,0,0
+0.75,0.85,0.58,1.3,Canarsie,P.S. 66,Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.96,0.79,0.27,3.6,East Harlem North,P.S. 7 Samuel Stern,Screened,MANHATTAN,Basketball,low,0,1,0,0,0,0
+0.94,0.94,0.09,1.6,Middle Village,P.S./I.S. 087 Middle Village,Zoned,QUEENS,"Basketball, Table Tennis, Volleyball, Yoga, Zumba",medium,0,0,0,1,0,0
+0.9,0.95,0.23,0.7,Bay Ridge,P.S./I.S. 104 The Fort Hamilton School,Composite Score,BROOKLYN,NA,high,0,0,0,0,1,0
+0.87,0.86,0.45,0.5,East Flatbush-Farragut,P.S./I.S. 109,Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.94,0.97,0.23,0.8,Glendale,P.S./I.S. 113 Anthony J. Pranzo,Zoned,QUEENS,Tennis,high,0,0,0,1,0,0
+0.79,0.82,0.39,0.8,South Jamaica,P.S./I.S. 116 William C. Hughley,Open,QUEENS,Basketball,low,0,0,0,1,0,0
+0.87,0.97,0.33,0.8,Glendale,P.S./I.S. 119 The Glendale,Composite Score,QUEENS,Various club opportunities,high,0,0,0,1,0,0
+0.91,0.85,0.44,3.6,Ocean Hill,P.S. / I.S. 155 Nicholas Herkimer,Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.85,0.95,0.41,2.7,Jamaica Estates-Holliswood,P.S. / IS 178 Holliswood,Zoned,QUEENS,"Badminton, Baseball, Basketball, Cheerleading, Dance, Flag Football, Soccer, Volleyball",high,1,0,0,1,0,0
+0.98,0.95,0.22,2.4,Washington Heights North,P.S./I.S. 187 Hudson Cliffs,Open,MANHATTAN,"Cross Country, Flag Football, Track and Field, Volleyball",high,0,1,0,0,0,0
+0.92,0.96,0.28,2.5,Bellerose,P.S./I.S. 208,Open,QUEENS,NA,high,0,0,0,1,0,0
+0.89,0.9,0.25,0.8,Borough Park,P.S./I.S. 226 Alfred De B. Mason,Zoned,BROOKLYN,"Basketball, Fitness Club",medium,0,0,0,0,1,0
+0.9,0.95,0.22,0.7,Bath Beach,P.S./I.S. 229 Dyker,Composite Score,BROOKLYN,"Flag Football, Soccer",high,0,0,0,0,1,0
+0.89,0.98,0.39,2.5,Bellerose,PS/IS 266Q,Open,QUEENS,"Running Club, District 26 Basketball League - Boys & Girls",high,0,0,0,1,0,0
+0.84,0.86,0.37,3.3,Jamaica,P.S./I.S. 268,Open,QUEENS,"Basketball, Flag Football, Volleyball",medium,0,0,0,1,0,0
+0.88,0.95,0.36,0.5,Queens Village,P.S./I.S. 295,Screened,QUEENS,NA,high,0,0,0,1,0,0
+0.86,0.84,0.33,4.9,Brownsville,P.S./I.S. 323,Open,BROOKLYN,NA,low,0,0,0,0,1,0
+0.9,0.96,0.2,4,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,P.S./M.S. 114 Belle Harbor,Zoned,QUEENS,Basketball,high,0,0,0,1,0,0
+0.8,0.95,0.49,1,Rosedale,P.S./M.S. 138 Sunrise,Open,QUEENS,"Basketball, Dance, Track and Field, Volleyball",high,1,0,0,1,0,0
+0.94,0.88,0.31,0,Cambria Heights,P.S./M.S. 147 The Ronald McNair,Open,QUEENS,"Basketball, Flag Football, Tennis, Volleyball",medium,0,0,0,1,0,0
+0.97,0.97,0.22,2.7,Kew Gardens Hills,PS/MS 219 Paul Klapper,Open,QUEENS,NA,high,0,0,0,1,0,0
+0.8909285714285714,0.87,0.30042857142857143,1.7,Norwood,P.S./M.S. 280 Mosholu Parkway,Zoned,BRONX,NA,medium,0,0,1,0,0,0
+0.84,0.79,0.61,4.2,Far Rockaway-Bayswater,P.S./M.S. 43,Zoned,QUEENS,NA,low,0,0,0,1,0,0
+0.95,0.98,0.22,2.7,Kew Gardens Hills,"Queens College School for Math, Science and Technology",Open,QUEENS,"Basketball, Handball, Softball, Volleyball",high,0,0,0,1,0,0
+0.85,0.92,0.37,0.3,Laurelton,Queens United Middle School,Open,QUEENS,"Cheerleading, Double Dutch",medium,0,0,0,1,0,0
+0.91,0.93,0.36,3.6,East Harlem North,Renaissance School of the Arts,Open,MANHATTAN,NA,medium,0,1,0,0,0,0
+0.91,0.9,0.21,2.1,Crown Heights North,Restoration Academy,Screened,BROOKLYN,"Basketball, Fitness Club, Martial Arts, Swimming",medium,0,0,0,0,1,0
+0.82,0.9,0.42,0.8,South Jamaica,Richard S. Grossley (J.H.S. 8),Open,QUEENS,"Baseball, Basketball, Cheerleading, Dance, Flag Football, Martial Arts, Step, Volleyball",medium,1,0,0,1,0,0
+0.92,0.88,0.27,4.9,Brownsville,Riverdale Avenue Middle School,Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.96,0.86,0.1,3.6,Ocean Hill,Ronald Edmonds Learning Center II,Open,BROOKLYN,"Basketball, Fitness Club, Soccer, Step, Tennis, Track and Field",medium,0,0,0,0,1,0
+0.95,0.83,0.27,5.7,East Harlem South,School of Authors (P.S./M.S. 108 ),Open,MANHATTAN,NA,low,0,1,0,0,0,0
+0.84,0.94,0.45,6.9,Hunts Point,School of Performing Arts,Open,BRONX,Martial Arts,medium,0,0,1,0,0,0
+0.83,0.84,0.33,4,Mott Haven-Port Morris,Science School for Exploration and Discovery (M.S. 224),Open,BRONX,"Basketball, Dance, Flag Football",low,1,0,1,0,0,0
+0.89,0.99,0.16,5.7,East Harlem South,Tag Young Scholars,Screened,MANHATTAN,Volleyball,high,0,1,0,0,0,0
+0.95,0.9,0.24,8.6,Gramercy,The 47 American Sign Language & English Lower School,Screened,MANHATTAN,None,medium,0,1,0,0,0,0
+0.91,0.96,0.07,2.1,Crown Heights North,The Brooklyn Green School,Open,BROOKLYN,"Basketball, Cheerleading, Dance, Fitness Club, Flag Football, Track and Field, Volleyball, Yoga",high,1,0,0,0,1,0
+0.97,0.98,0.07,0.7,Dyker Heights,The Christa McAuliffe School I.S. 187,Composite Score,BROOKLYN,Wrestling,high,0,0,0,0,1,0
+0.78,0.81,0.44,0.8,South Jamaica,The Emerson School,Open,QUEENS,"Basketball, Track and Field",low,0,0,0,1,0,0
+0.91,0.9,0.5,0.3,Laurelton,The Gordon Parks School for Inquisitive Minds,Open,QUEENS,NA,medium,0,0,0,1,0,0
+0.95,0.95,0.22,3.8,Highbridge,The Highbridge Green School,Open,BRONX,"Basketball, Fitness Club",high,0,0,1,0,0,0
+0.94,0.95,0.2,0.7,Dyker Heights,The Madeleine Brennan School,Composite Score,BROOKLYN,NA,high,0,0,0,0,1,0
+0.93,0.84,0.44,2.1,Crown Heights North,The Mary McLeod Bethune Middle School (M.S. 394),Composite Score,BROOKLYN,"Basketball, Cheerleading, Dance, Volleyball",low,1,0,0,0,1,0
+0.79,0.86,0.44,4,Prospect Lefferts Gardens-Wingate,"The Middle School of Media, Law and Fine Arts",Open,BROOKLYN,NA,medium,0,0,0,0,1,0
+0.89,0.92,0.4,2.1,Crown Heights North,The School of Integrated Learning,Composite Score,BROOKLYN,"Basketball, Dance, Double Dutch, Flag Football, Soccer, Tennis, Track and Field",medium,1,0,0,0,1,0
+0.79,0.96,0.47,1.3,Canarsie,The Science And Medicine Middle School 366,Open,BROOKLYN,"Basketball, Dance",high,1,0,0,0,1,0
+0.92,0.95,0.17,0.8,Borough Park,The SEEALL Academy,Composite Score,BROOKLYN,"Basketball, Cross Country, Flag Football, Handball, Lacrosse, Rugby, Soccer, Track and Field",high,0,0,0,0,1,0
+0.86,0.95,0.4,6.2,Clinton Hill,The Urban Assembly Unison School,Open,BROOKLYN,"Basketball, Cheerleading, Flag Football, Track and Field",high,0,0,0,0,1,0
+0.93,0.97,0.17,4.1,Lower East Side,Tompkins Square Middle School,Screened,MANHATTAN,"Basketball, Dance, Flag Football, Running Club, Soccer, Table Tennis, Track and Field, Volleyball",high,1,1,0,0,0,0
+0.95,0.85,0.17,4.1,Lower East Side,University Neighborhood Middle School,Screened,MANHATTAN,"Fitness Club, Flag Football, Running Club, Soccer, Softball, Yoga",medium,0,1,0,0,0,0
+0.86,0.89,0.32,4.2,Far Rockaway-Bayswater,Village Academy,Open,QUEENS,"Archery, Basketball, Cheerleading, Dance, Fitness Club, Flag Football, Soccer, Volleyball, Cheerleading",medium,1,0,0,1,0,0
+0.93,0.91,0.29,4.9,Brownsville,Walter Francis White (P.S. 41),Open,BROOKLYN,Yoga,medium,0,0,0,0,1,0
+0.9,0.92,0.25,4,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,Waterside School For Leadership,Screened: Language,QUEENS,"Basketball, Dance, Flag Football, Soccer, Track and Field, Volleyball",medium,1,0,0,1,0,0
